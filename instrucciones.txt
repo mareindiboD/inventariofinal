@@ -1,0 +1,5 @@
+Compilar:
+gcc -Wall -std=c99 -o inventario.out main.c DLL.c stock.c
+
+Ejecutar:
+./inventario.out

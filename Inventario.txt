@@ -1,0 +1,2 @@
+Producto	Cantidad	Codigo de barra		Precio
+A		1		10721			12.00
